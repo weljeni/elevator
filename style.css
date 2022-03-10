@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+  }
+
+  svg {
+    background-color: #470000;
+    border: 1px solid #470000;
+    width: 500px;
+  }
+
+  #q1 {
+    height: 500px;
+  }
+
+  #line {
+    stroke: #470000;
+    stroke-width: 0.3;
+  }
